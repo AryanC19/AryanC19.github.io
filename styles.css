@@ -1,0 +1,77 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding-left: 5px;
+    background-image: url('asdsadasd.jpg');
+    
+}
+
+#logo{
+    height: 80vh;
+    background-image: url('ssit.png');
+    size: 10px;
+    
+    margin: 10px 0px 0px 10px;
+    
+}
+#footer p{
+    display:center;
+}
+.form{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-color: rgb(68, 14, 231);
+    
+    border-style: solid;
+    border-radius: 20px;
+    width: 400px;
+    padding-left: auto;
+    padding-right: auto;
+    display: block;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: hsla(0, 11%, 96%, 0.05);
+    color: #f5c3c3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+
+
+.form input{
+    border-style: none;
+    outline: none;
+    text-align: center;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.form #submit{
+    outline: none;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+    color: rgb(98, 161, 255);
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    padding: 0px 10px 0px 10px;
+    margin: 10px 0px 0px 0px;
+    font-family: 'Arimo', sans-serif;
+    transition: box-shadow 0.6s;
+}
+
+#footer{
+    margin: 25px 0px 0px 10px;
+    color: #ffffff;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bold;
+    
+}
+
